@@ -1,13 +1,3 @@
-/* TO-DO
-
-- Mostrare tutti i dati
-- Richiesta get al sito
-- Completamento del Ticker
-- Controlli sul Ticker
-- Autoreload
-
-*/
-
 // Imposta la data massima del calendario ad oggi
 document.getElementById('to').value = DateTime.now().toString().split('T')[0];
 document.getElementById('from').value = DateTime.now().minus({ months: 1 }).toString().split('T')[0];
