@@ -18,14 +18,17 @@
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-This project was built for Developer's Week 2022
+This project was built for Developer's Week 2022.
+The objective is the realization of a program that
+satisfies the requests of a hypothetical client.
+
 
 Goals:
 * Processing of the client's requests
 * High quality code production
 * Simplicity of use
 
-Developed by `Mattia Guercia`.
+Developed by `Mattia Guercia`
 
 
 
