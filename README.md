@@ -10,6 +10,7 @@
   <h3 a
   <h3 align="center">Stocks To Chart</h3>
   <p align="center">Developer's Week 2022</p>
+  <p align="center">Live Preview: https://grct.github.io/stocksToChart/</p>
 </div>
 
 
@@ -17,15 +18,14 @@
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-Lorem ipsum
+This project was built for Developer's Week 2022
 
-Lorem:
-* Lorem ipsum
-* Lorem ipsum
-* Lorem ipsum
+Goals:
+* Processing of the client's requests
+* High quality code production
+* Simplicity of use
 
-Lorem ipsum
-Lorem ipsum `Lorem ipsum` Lorem ipsum.
+Developed by `Mattia Guercia`.
 
 
 
