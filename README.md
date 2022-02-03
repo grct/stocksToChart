@@ -18,7 +18,7 @@
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-This project was built for Developer's Week 2022.<br><br>
+This project was built for Developer's Week 2022.<br>
 The objective is the realization of a program that
 satisfies the requests of a hypothetical client.<br>
 
