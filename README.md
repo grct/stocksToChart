@@ -3,12 +3,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/Logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/grct/stocksToChart">
+    <img src="images/Logo.png" alt="Logo" width="158" height="80">
   </a>
 
   <h3 align="center">Stocks To Chart</h3>
-
   <p align="center">
     Lorem ipsum
   </p>
@@ -46,8 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 Lorem ipsum
 
 Lorem:
@@ -56,10 +54,8 @@ Lorem:
 * Lorem ipsum
 
 Lorem ipsum
-
 Lorem ipsum `Lorem ipsum` Lorem ipsum.
 
-<p align="right"><a href="#top">back to top</a></p>
 
 
 
