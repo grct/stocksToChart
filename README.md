@@ -18,9 +18,9 @@
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-This project was built for Developer's Week 2022.<br>
-The objective is the realization of a program that
-satisfies the requests of a hypothetical client.<br>
+This project is inspired by the work assigned for the DW2022.<br>
+This is NOT the originally assigned work<br>
+The objective is the realization of a program that satisfies the requests of a hypothetical client.<br>
 
 
 Goals:
