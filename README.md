@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/grct/stocksToChart">
+  <a href="https://grct.github.io/stocksToChart/">
     <img src="images/Logo.png" alt="Logo" width="158" height="80">
   </a>
 
