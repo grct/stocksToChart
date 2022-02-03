@@ -4,8 +4,6 @@ document.getElementById('from').value = DateTime.now().minus({ months: 1 }).toSt
 document.getElementById("to").setAttribute("max", DateTime.now().toString().split('T')[0]);
 document.getElementById("from").setAttribute("max", DateTime.now().toString().split('T')[0]);
 
-
-
 const openModalButtons = document.querySelectorAll('[data-modal-target]')
 const closeModalButtons = document.querySelectorAll('[data-close-button]')
 const overlay = document.getElementById('overlay')

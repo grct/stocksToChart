@@ -7,43 +7,13 @@
     <img src="images/Logo.png" alt="Logo" width="158" height="80">
   </a>
 
-  <h3 align="center">Stocks To Chart</h3>
-  <p align="center">
-    Lorem ipsum
-  </p>
+  <h3 align="center" style="color: #A585FF">Stocks To Chart</h3>
+  <p align="center">DW2022</p>
 </div>
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## <span style="color: #A585FF">About The Project</span>
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 Lorem ipsum
@@ -58,8 +28,7 @@ Lorem ipsum `Lorem ipsum` Lorem ipsum.
 
 
 
-
-### Built With
+### <span style="color: #A585FF">Built With</span>
 
 
 * [Chart.js](https://www.chartjs.org)
@@ -70,9 +39,8 @@ Lorem ipsum `Lorem ipsum` Lorem ipsum.
 <p align="right"><a href="#top">back to top</a></p>
 
 
-
 <!-- GETTING STARTED -->
-## Getting Started
+## <span style="color: #A585FF">Getting Started</span>
 
 To start, choose the ticker you want to view from the appropriate "Ticker" box.
 Below select the time frame you want to analyze by choosing the start and end date.
@@ -80,13 +48,14 @@ Alternatively, you can also import a request from outside by pressing the "Impor
 
 
 <!-- ROADMAP -->
-## Roadmap
+## <span style="color: #A585FF">Roadmap</span>
 
 - [ ] Import from Rest GET call to https://dwweb.gnet.it/dw2022/ 
 - [ ] Ticker Autocompletion
 - [ ] Request Error Checks
 - [ ] Data Autoreload
 - [ ] Show more data
+<span style="color: #E2E2E2">
     - [ ] Il massimo teorico realizzabile se si comprasse sempre al minimo e si vendesse sempre al massimo in ciascun giorno.
     - [ ] Quanto il titolo ha guadagnato (o perso) per il periodo richiesto
     - [ ] La percentuale di giorni in cui il titolo è cresciuto durante il periodo richiesto
@@ -101,11 +70,8 @@ Alternatively, you can also import a request from outside by pressing the "Impor
     - [ ] I dati calcolati
     - [ ] Un grafico con i valori giornalieri del periodo richiesto
     - [ ] Almeno un grafico a scelta v. punti 4a o 4b delle elaborazioni richieste
-
+</span>
 
 <p align="right"><a href="#top">back to top</a></p>
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
+<!-- [product-screenshot]: images/screenshot.png -->
