@@ -65,8 +65,8 @@ function generateURL(ticker, multipler, timespan, from, to){
 const key = '3EeuHppKTp5zgsIDr1KI2BtsfdveDj7G';
 const base = 'https://api.polygon.io/v2/aggs/ticker/';
 
-var a = 0;
-var c;
+var a = 0; // Contatore
+var c; // Grafico
 var DateTime = luxon.DateTime;
 
 var date = [];
@@ -121,6 +121,22 @@ async function callAPI(url, from){
     return data;
 }
 
+// Aspettando che venga configurato il CORS..
+// async function getInput(){
+//     const url = 'https://dwweb.gnet.it/dw2022/'
+//     alert('e');
+//     const response = await fetch(url);
+//     const data = await response.json();
+//     const { ticker, starting_date, ending_date } = data;
+
+//     console.log(ticker);
+//     console.log(starting_date);
+//     console.log(ending_date);
+
+//     return data;
+// }
+
+
 // Funzione al momento inutile
 function final(ticker, from, to){
     callAPI(generateURL(ticker, '1', 'day', from, to), from);
@@ -128,3 +144,5 @@ function final(ticker, from, to){
 
 
 document.getElementById("btn").onclick = function(){final(document.getElementById('ticker').value.toUpperCase(), document.getElementById('from').value, document.getElementById('to').value)};
+
+getInput();

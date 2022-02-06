@@ -61,6 +61,7 @@ Alternatively, you can also import a request from outside by pressing the "Impor
 - [ ] Ticker Autocompletion
 - [ ] Request Error Checks
 - [ ] Data Autoreload
+- [ ] CSS Rework
 - [ ] Show more data
     - [ ] Il massimo teorico realizzabile se si comprasse sempre al minimo e si vendesse sempre al massimo in ciascun giorno.
     - [ ] Quanto il titolo ha guadagnato (o perso) per il periodo richiesto
@@ -76,6 +77,7 @@ Alternatively, you can also import a request from outside by pressing the "Impor
     - [ ] I dati calcolati
     - [ ] Un grafico con i valori giornalieri del periodo richiesto
     - [ ] Almeno un grafico a scelta v. punti 4a o 4b delle elaborazioni richieste
+- [ ] More comments
 
 
 <p align="right"><a href="#top">back to top</a></p>
